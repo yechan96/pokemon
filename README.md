@@ -1,3 +1,3 @@
 # pokemon
--made for a class
+-made for a class<br>
 -uses bootstrap

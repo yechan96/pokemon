@@ -101,13 +101,13 @@ body {
 	border-radius: 15px;
 }
 
-#fire .st{
+#fire {
 	background: rgba(255,0,0, 0.3)
 }
-#water .st{
+#water {
 	background: rgba(0,0,255, 0.3)
 }
-#grass .st{
+#grass {
 	background: rgba(0,255,0, 0.3)
 }
 
